@@ -1,13 +1,13 @@
 name = "Per-Dimension Game Rules"
 filename = "PerDimensionGameRules-1.20.1-Fabric-3.1.2.jar"
-side = "both"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "01c57b3ae9cdb5eeba307466c5a9f0aec2451ac2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/h5p7SvF3/versions/dkMnL5uy/PerDimensionGameRules-1.20.1-Fabric-3.1.2.jar"
+hash-format = "sha512"
+hash = "50e16d2680bac293f74b3ba3d12761d557f636af649e34d67d809a890fb82c7dec459304a6f10bf0b72e3f4ce83f941e3b2e3620505a44a7445cdd1c6bb5ef33"
 
 [update]
-[update.curseforge]
-file-id = 7122338
-project-id = 828106
+[update.modrinth]
+mod-id = "h5p7SvF3"
+version = "dkMnL5uy"

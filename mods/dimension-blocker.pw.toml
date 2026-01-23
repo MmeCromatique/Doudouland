@@ -1,0 +1,13 @@
+name = "Dimension Blocker"
+filename = "dimensionblocker-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/b4I4j5eb/versions/644yZzV6/dimensionblocker-1.1.0.jar"
+hash-format = "sha512"
+hash = "c1497e0f660de802367cfef76c0720530bc158a063ce7b864bd6aeb44cdc54e259bfe02c0a92976997f7fcecb1e57fcfdf9bd8b650ef7c3557232056c4b616ab"
+
+[update]
+[update.modrinth]
+mod-id = "b4I4j5eb"
+version = "644yZzV6"

@@ -1,0 +1,13 @@
+name = "Profile Cached"
+filename = "ProfileCached-25.03.3+1.18.2-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fzk2lhec/versions/eJp98Djk/ProfileCached-25.03.3%2B1.18.2-fabric.jar"
+hash-format = "sha512"
+hash = "84efd909295a01ad7b75a41071abf7c8382e473fe905b114c7244078e151042906fed19bc6dc45803b0c79127023c84e87e3dd2cbdc670c0987d99434f961034"
+
+[update]
+[update.modrinth]
+mod-id = "Fzk2lhec"
+version = "eJp98Djk"
