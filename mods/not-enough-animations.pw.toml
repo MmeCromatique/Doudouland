@@ -1,0 +1,13 @@
+name = "Not Enough Animations"
+filename = "notenoughanimations-fabric-1.10.1-mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "afa40fa32fe1d7c01650ba7c2aeac0890045005a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6738622
+project-id = 433760

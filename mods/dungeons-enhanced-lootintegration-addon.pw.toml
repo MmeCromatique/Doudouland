@@ -1,0 +1,13 @@
+name = "Dungeons Enhanced Lootintegrations Addon"
+filename = "lootintegrations_dungeonsenhanced-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad2e166d867a2aa052587d27345a9f9ba71fd402"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6510000
+project-id = 1008041

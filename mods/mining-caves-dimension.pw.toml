@@ -1,0 +1,13 @@
+name = "Cave of The Mines"
+filename = "mining-world-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef743e9a98f5dabd405335d0f391dbb3a84e6edd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6398231
+project-id = 1238169

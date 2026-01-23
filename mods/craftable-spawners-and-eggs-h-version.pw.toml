@@ -1,0 +1,13 @@
+name = "Craftable Spawners and Eggs (H version) - The Craftables Series"
+filename = "Craftable Spawner and Spawn Eggs (1.20.1 fabric H version).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e547971e356ad0b03b05adbec26b812d3ed93846"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4615484
+project-id = 865172

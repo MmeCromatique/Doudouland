@@ -1,0 +1,13 @@
+name = "Ring of the Unseen [FABRIC/FORGE/NEOFORGE]"
+filename = "RingOfUnseen-Fabric-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "127e3741b48ee73db7498858d59b224f2220a993"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5175687
+project-id = 412489

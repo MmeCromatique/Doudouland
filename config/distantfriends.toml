@@ -1,0 +1,6 @@
+[general]
+friends = ["Malidoudou", "MmeCromatique"]
+addWhitelistPlayers = true
+[compat]
+playerMobsCompat = false
+playerMobsWhitelist = []

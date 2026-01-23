@@ -1,0 +1,13 @@
+name = "Ancient Structures: Cultural buildings"
+filename = "ancientstructures-fabric-1.20.1-0.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ec778fb6660fd06c2bd600075aa19be19aa749e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6895782
+project-id = 1300212

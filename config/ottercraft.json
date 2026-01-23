@@ -1,0 +1,6 @@
+{
+"otterSpawnBiomes":"minecraft:river,minecraft:swamp",
+"otterSpawnWeight":100,
+"otterSpawnMin":2,
+"otterSpawnMax":3
+}

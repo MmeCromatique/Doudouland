@@ -1,0 +1,13 @@
+name = "Per-Dimension Game Rules"
+filename = "PerDimensionGameRules-1.20.1-Fabric-3.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01c57b3ae9cdb5eeba307466c5a9f0aec2451ac2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7122338
+project-id = 828106

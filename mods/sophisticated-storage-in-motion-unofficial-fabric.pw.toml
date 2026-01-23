@@ -1,0 +1,13 @@
+name = "Sophisticated Storage in Motion (Unofficial Fabric port)"
+filename = "sophisticatedstorageinmotion-1.20.1-0.10.5.1.37.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "da6b1835e3dc72ef9173b95d672b420c98e98049"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6448764
+project-id = 1170660

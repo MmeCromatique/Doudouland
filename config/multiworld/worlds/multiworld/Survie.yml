@@ -1,0 +1,9 @@
+namespace: multiworld
+path: Survie
+environment: NORMAL
+seed: -563489487
+custom_generator: NORMAL
+difficulty: NORMAL
+gamerules: 
+gamerule_spawnRadius: 0
+gamerule_keepInventory: false

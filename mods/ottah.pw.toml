@@ -1,0 +1,13 @@
+name = "OttahMod"
+filename = "ottah-A2-pre_2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/891G4kho/versions/CSC4ZLrB/ottah-A2-pre_2.jar"
+hash-format = "sha512"
+hash = "26b3b1778064b62340882c01ba8372e0668935ee9dab86dfd68a6669f1cd85906453dfbe36f581d85b78660c5de3bb8cf7bf0fd410ebfa9da0398aa1d3cf1c4f"
+
+[update]
+[update.modrinth]
+mod-id = "891G4kho"
+version = "CSC4ZLrB"

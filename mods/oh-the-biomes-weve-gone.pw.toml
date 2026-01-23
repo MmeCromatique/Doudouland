@@ -1,0 +1,13 @@
+name = "Oh The Biomes We've Gone"
+filename = "Oh-The-Biomes-Weve-Gone-Fabric-1.6.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e9e3f2cfa6b254a4885a0d5f6c718719a6ce31f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6943501
+project-id = 1070751

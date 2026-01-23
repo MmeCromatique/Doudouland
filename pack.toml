@@ -1,0 +1,13 @@
+name = "Moulidoudou"
+author = "MmeCromatique"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ef4994dab857dc3f34eab5955f00b1da209709c981f25f7a842d5fbf06bce56b"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.20.1"

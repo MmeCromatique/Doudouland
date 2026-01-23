@@ -1,0 +1,13 @@
+name = "Explore Ruins: The Aether - Dungeons & Structures"
+filename = "explore_ruins_aether-1.0.0-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d997d0da7d8024919e4f9c50c0171bf8b47d7b64"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6888242
+project-id = 1327133
