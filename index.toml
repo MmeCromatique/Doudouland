@@ -6,11 +6,11 @@ hash = "7e05ce34d56b4597c8ac495d48cd8a045d38e179c14d82324c0d7e2545187303"
 
 [[files]]
 file = "config/aether-client.toml"
-hash = "c08b3ad03164b7533da3f9b8d6b9e10460dd6838385328cf3b4a186bad8547d7"
+hash = "f3ad89447a8ad8b26e866c0f0153a764875b7f867e167e2ec7c0e533ffd26bdc"
 
 [[files]]
 file = "config/aether-common.toml"
-hash = "85e07c72db460727fc1f7c1f8b4547e2035b988cbc9f23980fd179cbf3fa202f"
+hash = "809bf3c8d003c37bd02c310aa5729972b202945ed33c543c1584247d0514fc01"
 
 [[files]]
 file = "config/aether/aether_customizations.txt"
@@ -22,7 +22,7 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/cumulus_menus-client.toml"
-hash = "c613ba75fc636f4c79a99e312086902201d8b87e38b0275ed439279795f4fdbb"
+hash = "8d02bbacdff0d84e58527439ac4e084c75b04fb2790a82ec663dfb5af58dfef0"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -731,4 +731,4 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "bd2a4bfbd7a8c57051d1110879bc3395eb43af3b4f51f8516ff61ff1251dd936"
+hash = "0d2b4dade9b858a65943671f12d6c5605aa467c74aeb99a11d3cd231d06dc1b1"
