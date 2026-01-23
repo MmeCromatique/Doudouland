@@ -125,6 +125,11 @@ hash = "fed6f66373bb06b6ff552c97cd9cdbdf78ec429320252619e563f9a4fb65feb9"
 metafile = true
 
 [[files]]
+file = "mods/clear-void.pw.toml"
+hash = "fd1923a8b5908be4d6dc5eda6d46e92b5c251f0f98990881c50cde243d33db49"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
