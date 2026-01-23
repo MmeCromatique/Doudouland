@@ -255,11 +255,6 @@ hash = "3e9c1d1ea245d98594d8c78eec9c69e6b7f2f388de800489f4b3a97c80bef0e1"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "baffd40326ffc110b48dd2850371b4473cebe3020206f9003b7f390d6fded1d3"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
