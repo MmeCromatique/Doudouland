@@ -730,9 +730,5 @@ hash = "7f750030743730910111c4f2fa3a179be5dbdfab21cb9e2c5d2ba67b91743f15"
 metafile = true
 
 [[files]]
-file = "servers.dat"
-hash = "9b3a4d689d895910cfbcd851414e71e634067f34536bc71774203534054a9e5e"
-
-[[files]]
 file = "unsup.ini"
 hash = "bd2a4bfbd7a8c57051d1110879bc3395eb43af3b4f51f8516ff61ff1251dd936"
