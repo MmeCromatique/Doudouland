@@ -2,14 +2,11 @@
 name = "Qualite Graphique"
 description = "Quels mods d'amelioration visuelle desirez-vous ?"
 side = "client"
-[flavor_groups.rendering_mod2]
-name = ""
-description = ""
-[[flavor_groups.rendering_mod2.choices]]
+[[flavor_groups.rendering_mod.choices]]
 id = "iris"
 name = "Iris"
 description = "Installer Iris pour les shaders et effets lumineux (Gourmand en Carte Graphique)"
-[[flavor_groups.rendering_mod2.choices]]
+[[flavor_groups.rendering_mod.choices]]
 id = "no_rendering_mods"
 name = "Rien"
 description = "Pas de mods de Shaders"
