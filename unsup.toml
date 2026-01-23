@@ -1,6 +1,6 @@
 [flavor_groups.rendering_mod]
 name = "Qualite Graphique"
-description = "Quels mods d'amelioration visuelle desirez-vous ?"
+description = "Voulez-vous des shaders ?"
 side = "client"
 [[flavor_groups.rendering_mod.choices]]
 id = "iris"
@@ -11,8 +11,8 @@ id = "no_rendering_mods"
 name = "Rien"
 description = "Pas de mods de Shaders"
 [flavor_groups.rendering_mod3]
-name = ""
-description = ""
+name = "Distance de rendu"
+description = "Ameliore la distance de rendu"
 [[flavor_groups.rendering_mod3.choices]]
 id = "distand-horizons"
 name = "Distant Horizons"
