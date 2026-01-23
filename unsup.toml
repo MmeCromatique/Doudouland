@@ -18,6 +18,6 @@ id = "distand-horizons"
 name = "Distant Horizons"
 description = "Installer Distant Horizons qui permet une plus grande distance d'affichage (Gourmand en Processeur)."
 [[flavor_groups.rendering_mod3.choices]]
-id = "no_rendering_mods"
+id = "no_rendering_mods3"
 name = "Rien"
 description = "Pas de mods de distance d'affichage"
