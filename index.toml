@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "com.unascribed.unsup.json"
+hash = "7e05ce34d56b4597c8ac495d48cd8a045d38e179c14d82324c0d7e2545187303"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "b3617442ee214195a9d4c0097f7040c7132c12c06224d16701a2b7ebdfc0720f"
 
@@ -1213,14 +1217,6 @@ file = "config/yungsmenutweaks-fabric-1_20_1.toml"
 hash = "eb1dfe20f3cb1ee88f21381f2f7825f83d3f60123c42975d3959dfb41345e986"
 
 [[files]]
-file = "mods/Controlling-fabric-1.20.1-12.0.2.jar"
-hash = "f7bbb7e37f2118af29450ec468d3ce4ec2606fead2861f4092a43509c6803ed6"
-
-[[files]]
-file = "mods/DistantFriends-fabric-1.20.1-0.5.5.jar"
-hash = "e720a0807bc44293f62a57fb2028ba425bec90b4ede02a99a18c9fe3fed3c384"
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "18c2846397216a89b70784d74fe4cab613ba7b58269bf0668a682fdba5c5e7a0"
 metafile = true
@@ -1521,10 +1517,6 @@ hash = "2b92db3cc918eda28b5bf6f77c9d5b73e4deb7c24c77fe9d30a3116959453ee7"
 metafile = true
 
 [[files]]
-file = "mods/individualkeepinv-1.0.3.jar"
-hash = "8fe260873e2c1a44e77394e0598d31d263c300ff5ab98703a2fc2d65951ffe49"
-
-[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "bc64bb0f72acc944a8f6fd48e6147c698efd0456d6c63c27847bcaa896addd84"
 metafile = true
@@ -1588,10 +1580,6 @@ metafile = true
 file = "mods/melody.pw.toml"
 hash = "2af509457d13907cf0b48f2f0997750c07e0349f6522b87f8b4bcd1794aa2559"
 metafile = true
-
-[[files]]
-file = "mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
-hash = "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde"
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
@@ -1667,10 +1655,6 @@ metafile = true
 file = "mods/oh-the-trees-youll-grow.pw.toml"
 hash = "7b21bf7f898563a46d38cef0494f17d6cfef0a78c21a31145bedc36f763a9f18"
 metafile = true
-
-[[files]]
-file = "mods/ottah-A2-pre_2.jar"
-hash = "822a11568f2a1458182c6615a55f21c08d983dc2ebceb21209b6acb1e502e98f"
 
 [[files]]
 file = "mods/ottah.pw.toml"
@@ -1945,3 +1929,7 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "9b3a4d689d895910cfbcd851414e71e634067f34536bc71774203534054a9e5e"
+
+[[files]]
+file = "unsup.ini"
+hash = "bd2a4bfbd7a8c57051d1110879bc3395eb43af3b4f51f8516ff61ff1251dd936"
