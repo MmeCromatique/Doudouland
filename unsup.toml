@@ -1,0 +1,16 @@
+[flavor_groups.rendering_mod]
+name = "Qualité Graphique"
+description = "Quels mods d'amélioration visuelle désirez-vous ?"
+side = "client"
+[[flavor_groups.rendering_mod.choices]]
+id = "no_rendering_mods"
+name = "Rien"
+description = "Pas de mods de Qualité Graphique"
+[[flavor_groups.rendering_mod.choices]]
+id = "iris"
+name = "Iris"
+description = "Installer Iris pour les shaders et effets lumineux (Gourmand en Carte Graphique)"
+[[flavor_groups.rendering_mod.choices]]
+id = "distand-horizons"
+name = "Distant Horizons"
+description = "Installer Distant Horizons qui permet une plus grande distance d'affichage (Gourmand en Processeur)."
