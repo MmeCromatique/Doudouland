@@ -1,5 +1,0 @@
-namespace: multiworld
-path: hub
-environment: NORMAL
-seed: 696276326
-custom_generator: VOID
