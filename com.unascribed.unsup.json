@@ -10,6 +10,6 @@
 		}
 	],
 	"+jvmArgs": [
-		"-Dunsup.bootstrapUrl=https://raw.githubusercontent.com/MmeCromatique/Doudouland/refs/heads/main/pack.toml"
+		"-Dunsup.bootstrapUrl=https://raw.githubusercontent.com/MmeCromatique/Doudouland/refs/heads/main/unsup.ini"
 	]
 }
