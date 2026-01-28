@@ -15,7 +15,7 @@ name = "Distance de rendu"
 side = "both"
 description = "Ameliore la distance de rendu"
 [[flavor_groups.distant_horizons.choices]]
-id = "distand-horizons"
+id = "distant-horizons"
 name = "Distant Horizons"
 description = "Installer Distant Horizons qui permet une plus grande distance d'affichage (Gourmand en Processeur)."
 [[flavor_groups.distant_horizons.choices]]
