@@ -10,14 +10,14 @@ description = "Installer Iris pour les shaders et effets lumineux (Gourmand en C
 id = "no_rendering_mods"
 name = "Rien"
 description = "Pas de mods de Shaders"
-[flavor_groups.rendering_mod3]
+[flavor_groups.distant_horizons]
 name = "Distance de rendu"
 description = "Ameliore la distance de rendu"
-[[flavor_groups.rendering_mod3.choices]]
+[[flavor_groups.distant_horizons.choices]]
 id = "distand-horizons"
 name = "Distant Horizons"
 description = "Installer Distant Horizons qui permet une plus grande distance d'affichage (Gourmand en Processeur)."
-[[flavor_groups.rendering_mod3.choices]]
+[[flavor_groups.distant_horizons.choices]]
 id = "no_rendering_mods3"
 name = "Rien"
 description = "Pas de mods de distance d'affichage"
