@@ -12,7 +12,7 @@ name = "Rien"
 description = "Pas de mods de Shaders"
 [flavor_groups.distant_horizons]
 name = "Distance de rendu"
-side = "both"
+side = "client"
 description = "Ameliore la distance de rendu"
 [[flavor_groups.distant_horizons.choices]]
 id = "distant-horizons"

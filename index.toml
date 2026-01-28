@@ -640,6 +640,11 @@ hash = "11e2e4821470399e36976d82f7656807d2ca4fb4244f5a7117040db17e893b08"
 metafile = true
 
 [[files]]
+file = "mods/slumber.pw.toml"
+hash = "5ec076b281694307a3be96e04608dbd1af0f96f09602781ea4b9fb95ca4ee01f"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "e1bdd79c888029b8c0c79576e63a7ca00f293b6365f53a42b1ec08432c4cad9b"
 metafile = true
@@ -860,4 +865,4 @@ hash = "02f191e0de04b26fffb5bf0526f759dd513a1f28c0ae1abc1203a3abfc615422"
 
 [[files]]
 file = "unsup.toml"
-hash = "4c1dd220660c81d2e5e52cb0443e0168955ebf7457caf0dac78fccf86f1c26a8"
+hash = "5b5b69f38285247193a204fb4a7e9ed8cc2b0a70d900390839b77f05c2fceb5b"
