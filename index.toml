@@ -350,11 +350,6 @@ hash = "417d734aff1f58cd43b01f3500be44ab2ab3a855cc2a34515b82837eb4e7b82c"
 metafile = true
 
 [[files]]
-file = "mods/globalspawn.pw.toml"
-hash = "ba93b8571c62cec4cab98de8ea2dca2de97e278cdd242759b5a644feb5786c7b"
-metafile = true
-
-[[files]]
 file = "mods/guild.pw.toml"
 hash = "9a21043f8fa708733b7d453673abac7880990688546cd0574cb0fb207363601f"
 metafile = true
@@ -617,6 +612,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "a716c1404c8efc8fc3c5dc9301253cb2b606ded2062d601b8e237e2266b7cd81"
+metafile = true
+
+[[files]]
+file = "mods/respect-world-spawn.pw.toml"
+hash = "545598fb367630dcc4b0a1ade6977ac331f462a8e9d5abfb71ab7be5b9c6ba2a"
 metafile = true
 
 [[files]]
