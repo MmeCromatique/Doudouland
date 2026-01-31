@@ -3,7 +3,7 @@ name = "Qualite Graphique"
 description = "Voulez-vous des shaders ?"
 side = "client"
 [[flavor_groups.rendering_mod.choices]]
-id = "iris"
+id = "irisshaders"
 name = "Iris"
 description = "Installer Iris pour les shaders et effets lumineux (Gourmand en Carte Graphique)"
 [[flavor_groups.rendering_mod.choices]]
@@ -11,14 +11,18 @@ id = "no_rendering_mods"
 name = "Rien"
 description = "Pas de mods de Shaders"
 [flavor_groups.distant_horizons]
-name = "Distance de rendu"
-side = "client"
-description = "Ameliore la distance de rendu"
-[[flavor_groups.distant_horizons.choices]]
-id = "distanthorizons"
-name = "Distant Horizons"
+name = "Distant Horizon"
 description = "Installer Distant Horizons qui permet une plus grande distance d'affichage (Gourmand en Processeur)."
+side = "client"
 [[flavor_groups.distant_horizons.choices]]
-id = "no_distanthorizons"
-name = "Rien"
-description = "Pas de mods de distance d'affichage"
+id = "dh"
+name = "Oui"
+description = "Installer Distant Horizons"
+[[flavor_groups.distant_horizons.choices]]
+id = "nodh"
+name = "None"
+description = "Ne pas installer Distant Horizons"
+
+[metafile.distanthorizons]
+flavors = "dh"
+
