@@ -785,11 +785,6 @@ hash = "eac5d5405a7020336980c31c15aab41e0a8fd6881f53deca8ad07c247e968206"
 metafile = true
 
 [[files]]
-file = "mods/yawp.pw.toml"
-hash = "f4ec49b7b0f2ed8568bf71eb57af9bbba51a9a6b040f2c1169583f33db358baf"
-metafile = true
-
-[[files]]
 file = "mods/yet-another-furniture.pw.toml"
 hash = "409839329d63bc9ad6d302877b0f9b4c1575f18a9b02bf7b1f384bb248f6be43"
 metafile = true
