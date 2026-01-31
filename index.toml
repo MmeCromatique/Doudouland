@@ -295,6 +295,11 @@ hash = "bb639bed3b753102edf0faf5c6985e59ba4672bbec2c311edd9ebae5e4e7a59c"
 metafile = true
 
 [[files]]
+file = "mods/fabric-permissions-api.pw.toml"
+hash = "4f7bf8d60ef81f12471455f634bde52cc5a8c845250845b4519ad44ea46e61a6"
+metafile = true
+
+[[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "0db682bb6d3cd01a530ed20898e5b52d0743253a74c42cc1848d56d4cd2a0e59"
 metafile = true
@@ -756,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "dbd25cbb9e20c0f1b92666eb47f56783c00880fed02327a444e912ff2a5df304"
+hash = "b3389aa6e2bc1fc888dc62bba6178b4e48097c507760c1d9cacabee0b1f47916"
 metafile = true
 
 [[files]]
