@@ -295,11 +295,6 @@ hash = "bb639bed3b753102edf0faf5c6985e59ba4672bbec2c311edd9ebae5e4e7a59c"
 metafile = true
 
 [[files]]
-file = "mods/fabric-permissions-api.pw.toml"
-hash = "4f7bf8d60ef81f12471455f634bde52cc5a8c845250845b4519ad44ea46e61a6"
-metafile = true
-
-[[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "0db682bb6d3cd01a530ed20898e5b52d0743253a74c42cc1848d56d4cd2a0e59"
 metafile = true
@@ -752,11 +747,6 @@ metafile = true
 [[files]]
 file = "mods/vanish.pw.toml"
 hash = "f75ab965e4eb71aefb05a30a80433b94d582e6a68eb5e4d54a06dd43b0181244"
-metafile = true
-
-[[files]]
-file = "mods/waterframes.pw.toml"
-hash = "c890e5a6241113a49c30241c8f08cab161ae3880ca0f6f9325aecd4b76adf6a8"
 metafile = true
 
 [[files]]
