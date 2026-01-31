@@ -750,8 +750,18 @@ hash = "f75ab965e4eb71aefb05a30a80433b94d582e6a68eb5e4d54a06dd43b0181244"
 metafile = true
 
 [[files]]
+file = "mods/waterframes.pw.toml"
+hash = "c890e5a6241113a49c30241c8f08cab161ae3880ca0f6f9325aecd4b76adf6a8"
+metafile = true
+
+[[files]]
+file = "mods/watermedia-yt-plugin.pw.toml"
+hash = "9fa9b86f4975f5995519f284c519482d7aa69f2e3cbc2be208dc43c46998bed6"
+metafile = true
+
+[[files]]
 file = "mods/watermedia.pw.toml"
-hash = "b3389aa6e2bc1fc888dc62bba6178b4e48097c507760c1d9cacabee0b1f47916"
+hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
 metafile = true
 
 [[files]]
