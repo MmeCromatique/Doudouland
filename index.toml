@@ -100,6 +100,11 @@ hash = "3c6fe95ab85e6e88edd7a00403cedde0e0eb02b0c82a1dbe1ef66d07f63fa6c6"
 metafile = true
 
 [[files]]
+file = "mods/camerapture.pw.toml"
+hash = "01aa15f05037f6d9ee92007ddfe9e5584ad2f07a24456e1cbadd86f9f2173c88"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "3ef96a88003584f3bb0e249aeb102b977400fab8718201f3325dd6ced30e4315"
 metafile = true
