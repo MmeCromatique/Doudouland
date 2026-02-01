@@ -590,6 +590,11 @@ hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
 metafile = true
 
 [[files]]
+file = "mods/norollback.pw.toml"
+hash = "d788961b47341d69c1b2caf7a976c9a1a587245ad2ab14fd93c4ced105217361"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "c8f118c4cdcf26cc5fea666d8a9db6f15c3bfd1cef9a879c46c2b280278a9160"
 metafile = true
@@ -772,6 +777,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
+metafile = true
+
+[[files]]
+file = "mods/terrablenderfix.pw.toml"
+hash = "83bbea093f4a6d0b6d60067181fa23ce9701a9d8cd4ca159a32375dbd0a2d429"
 metafile = true
 
 [[files]]
