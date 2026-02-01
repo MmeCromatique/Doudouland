@@ -35,6 +35,11 @@ hash = "75dc768530ee3b928b85766dface34806e0c3fd62d2970e60ce1083f04d753bb"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
+metafile = true
+
+[[files]]
 file = "mods/ancient-cultural-structures.pw.toml"
 hash = "7e84c7c0fca9ec576196beb8d612b1efd6f6d58ccc56a40a5142a44837c2cbaa"
 metafile = true
@@ -435,6 +440,11 @@ hash = "deaaa55bf9867d23cd96e96a7cc7d33a301c7831c21a285b5776252019121f8b"
 metafile = true
 
 [[files]]
+file = "mods/lazyai.pw.toml"
+hash = "49de6129312b082c3d1fb8581b3ae84af115daf761bfeafcb36f852b3021cacf"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "e75515de6f60227e731affe8077018bd68d8556ebd62032a5e5bd5217b28d44f"
 metafile = true
@@ -507,6 +517,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "66d1b7bc973830475a7bae8a5b823ec42fbc1ed1f4d4c514f1e6a21b20177810"
+metafile = true
+
+[[files]]
+file = "mods/mpalladium.pw.toml"
+hash = "2ab59ab43b36dd2f4edb2e98c6ed5bd54e28632e8114b0ba6e131e3a547efbd3"
 metafile = true
 
 [[files]]
@@ -730,6 +745,11 @@ hash = "de7c8854cf767b3c5f48078636db31d643dd11bf1be13116ddbb535dd58b443e"
 metafile = true
 
 [[files]]
+file = "mods/toadlib.pw.toml"
+hash = "853e563171cf07d427001681d8018f1f1909ab968e3fe912bdfacf7df2ad744c"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage-fabric.pw.toml"
 hash = "a4cfb5083b9d014b87293d694d62f61ba3c64c6903885d7c1d46f46cc581f589"
 metafile = true
@@ -747,6 +767,11 @@ metafile = true
 [[files]]
 file = "mods/vanish.pw.toml"
 hash = "f75ab965e4eb71aefb05a30a80433b94d582e6a68eb5e4d54a06dd43b0181244"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
 metafile = true
 
 [[files]]
