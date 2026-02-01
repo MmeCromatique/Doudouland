@@ -860,8 +860,8 @@ hash = "1d954e3b9985b3434b38bf84d8a4a615180aa1b0dc2c4088e06f37bfbb879067"
 metafile = true
 
 [[files]]
-file = "mods/waystones-fabric.pw.toml"
-hash = "3b857c56943a40f69bebfacc296f77bd2bee6a092b71ad25a46da4fa1eb803f2"
+file = "mods/waystones.pw.toml"
+hash = "838ef2f9506dc71d713098170b5c9434701bf8beb4e61b3a6efe90c56e1d8d12"
 metafile = true
 
 [[files]]
