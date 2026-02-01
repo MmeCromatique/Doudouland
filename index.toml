@@ -445,11 +445,6 @@ hash = "deaaa55bf9867d23cd96e96a7cc7d33a301c7831c21a285b5776252019121f8b"
 metafile = true
 
 [[files]]
-file = "mods/lazyai.pw.toml"
-hash = "49de6129312b082c3d1fb8581b3ae84af115daf761bfeafcb36f852b3021cacf"
-metafile = true
-
-[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "e75515de6f60227e731affe8077018bd68d8556ebd62032a5e5bd5217b28d44f"
 metafile = true
