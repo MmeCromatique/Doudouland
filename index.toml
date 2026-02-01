@@ -410,6 +410,11 @@ hash = "f6699bfd27a089571477770e4130c5c5c6429e7d3398934c9ba0d9c4c9b74432"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "35a92248579640e9d4caac1ef7f369a378cd2b02b63c4aecb6041c8023939288"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "60adfc1ee75f10a7290e18f3e2b82601a3d3915db0c53dabe08dd17daf1c7d76"
 metafile = true
