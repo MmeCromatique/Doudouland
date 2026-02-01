@@ -100,6 +100,11 @@ hash = "6c2743bbf0f3219e6f4a123d03f75e39b74979d792dc543fa94087a030044e4e"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "30eff8901d5955ab62196e335926047f6c00278fd95eb04b4e4b7122a8c31f15"
+metafile = true
+
+[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "92b54fed693e725faa96e793b643cb5245494643830f2a4e277d6c7150368e7d"
 metafile = true
