@@ -520,11 +520,6 @@ hash = "66d1b7bc973830475a7bae8a5b823ec42fbc1ed1f4d4c514f1e6a21b20177810"
 metafile = true
 
 [[files]]
-file = "mods/mpalladium.pw.toml"
-hash = "2ab59ab43b36dd2f4edb2e98c6ed5bd54e28632e8114b0ba6e131e3a547efbd3"
-metafile = true
-
-[[files]]
 file = "mods/myths-of-the-sea.pw.toml"
 hash = "7d371237823f5cfe15fddf012dfb3399b0a4358353062c56e156346aeb850f89"
 metafile = true
