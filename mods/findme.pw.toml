@@ -1,13 +1,13 @@
 name = "FindMe"
-filename = "findme-3.2.1-fabric.jar"
+filename = "findme-3.2.3-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "26a8462b22131f83f49353613b5ac2d38696368e"
+hash = "bcd1b02b898ab344bdec8179fb27e520e41d8c21"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5074612
+file-id = 7069253
 project-id = 291936
