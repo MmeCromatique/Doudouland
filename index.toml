@@ -430,11 +430,6 @@ hash = "60adfc1ee75f10a7290e18f3e2b82601a3d3915db0c53dabe08dd17daf1c7d76"
 metafile = true
 
 [[files]]
-file = "mods/individual-keep-inventory.pw.toml"
-hash = "2b92db3cc918eda28b5bf6f77c9d5b73e4deb7c24c77fe9d30a3116959453ee7"
-metafile = true
-
-[[files]]
 file = "mods/invview.pw.toml"
 hash = "83faa3592a9579a62918edd2c51f926c816f3432bd4ec2d80f7a3cff0b44eb91"
 metafile = true
