@@ -170,6 +170,11 @@ hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "d47260d085f9c59609bbc7582968e60f4c476d934c815142360bbcc4b5113a4d"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
@@ -795,6 +800,11 @@ hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
 metafile = true
 
 [[files]]
+file = "mods/terrastorage-icons-updated.pw.toml"
+hash = "1b6b18ce61efa279f30c37e81da381d8e13265bd629f74d7e6aadcdfa2456432"
+metafile = true
+
+[[files]]
 file = "mods/terrastorage.pw.toml"
 hash = "88cb5624080a22ed2fdc7d80056eb5273f99858f84cc9e9dc37404084fa3f7ee"
 metafile = true
@@ -817,6 +827,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage-fabric.pw.toml"
 hash = "a4cfb5083b9d014b87293d694d62f61ba3c64c6903885d7c1d46f46cc581f589"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "d6ddde622109dc5072e84fc6493c44950314594864a74495d898bcefbd3f2e8b"
 metafile = true
 
 [[files]]
