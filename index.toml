@@ -670,6 +670,11 @@ hash = "3f8f31eed84a4a29618cf04e300ea02ace03095ff4e8c4c23ec92f09849ed1f0"
 metafile = true
 
 [[files]]
+file = "mods/optitritium.pw.toml"
+hash = "189242ff2dbac8a8642a3768d73a3bfd4d8a16e085b8543370093104817f4dd5"
+metafile = true
+
+[[files]]
 file = "mods/ottah.pw.toml"
 hash = "e359f98633422218c9399288d40993b735e28c23eac0104cfc83bd916abb3a94"
 metafile = true
