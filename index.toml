@@ -25,6 +25,10 @@ file = "config/cumulus_menus-client.toml"
 hash = "8d02bbacdff0d84e58527439ac4e084c75b04fb2790a82ec663dfb5af58dfef0"
 
 [[files]]
+file = "config/tritium/tritium_config.toml"
+hash = "5f89895248afd571c1e1b189c32e8237599090eeb5562325bff6e2e92375c350"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "35228989dbf447ed8a124fda344ef42720b7811d1326cb3e7373cc06f72d63fc"
 metafile = true
