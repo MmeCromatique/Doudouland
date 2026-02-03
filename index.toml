@@ -30,6 +30,11 @@ hash = "35228989dbf447ed8a124fda344ef42720b7811d1326cb3e7373cc06f72d63fc"
 metafile = true
 
 [[files]]
+file = "mods/achievements-optimizer.pw.toml"
+hash = "ec8ba50fa9fafe1d47fdaa5b2d3d1d52dc6c7e248695754bfb9215f7f72d1956"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "75dc768530ee3b928b85766dface34806e0c3fd62d2970e60ce1083f04d753bb"
 metafile = true
