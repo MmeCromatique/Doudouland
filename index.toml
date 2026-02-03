@@ -26,7 +26,7 @@ hash = "8d02bbacdff0d84e58527439ac4e084c75b04fb2790a82ec663dfb5af58dfef0"
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "98cf4869a7679e976f608e4eee0144a3e0d383fbdea1b40f1f58ec8435f21e47"
+hash = "35228989dbf447ed8a124fda344ef42720b7811d1326cb3e7373cc06f72d63fc"
 metafile = true
 
 [[files]]
@@ -105,8 +105,18 @@ hash = "30eff8901d5955ab62196e335926047f6c00278fd95eb04b4e4b7122a8c31f15"
 metafile = true
 
 [[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "1a86c44e54655d9cb676de1554ca49dde3db2707f1e7b6b467a4f0fb3558a1d5"
+metafile = true
+
+[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "92b54fed693e725faa96e793b643cb5245494643830f2a4e277d6c7150368e7d"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "e5739bf8e8668a5d94ae545f7ddabcffcdfec64b0e72d7d2d88d8f64f480977e"
 metafile = true
 
 [[files]]
@@ -197,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/craftable-spawners-and-eggs-h-version.pw.toml"
 hash = "31f8ebf097badbb24d81b2eeafc8d5358a6094fb7b70da5df4bc5ffe74ab3e34"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "b079b010767e7589c98ee4c6281eec59cda6cf2b8ca83c75aaa478af7253b6bf"
 metafile = true
 
 [[files]]
@@ -302,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/emojiful.pw.toml"
 hash = "a463035ddfa901370ec7293103a6405ed5f476f4a2a7468cc3552f07686bd510"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "d8b246d9366b0e02259733ef337585c6a9f4a5b29fc19b52745ebea8e9895beb"
 metafile = true
 
 [[files]]
@@ -420,6 +440,16 @@ hash = "4833d71d50426503dc98c43d1ffa85a37facb1dbbe90c52694bd784abe5f9d47"
 metafile = true
 
 [[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "aafc36d4ffdbeb024d0cf535d0ebccc10313530e1e8b096fd65132397df1f9e9"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "40a8d97db3162ea083e5ad40a6a8f7ba0f260d714b74854ba77d2644e1914bbf"
+metafile = true
+
+[[files]]
 file = "mods/immersive-optimization.pw.toml"
 hash = "35a92248579640e9d4caac1ef7f369a378cd2b02b63c4aecb6041c8023939288"
 metafile = true
@@ -427,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "60adfc1ee75f10a7290e18f3e2b82601a3d3915db0c53dabe08dd17daf1c7d76"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "c2403aec1aca97f715bf9a2eaa05012be60af47feeaf94de61c2a68f71d7e19c"
 metafile = true
 
 [[files]]
@@ -561,7 +596,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "66d1b7bc973830475a7bae8a5b823ec42fbc1ed1f4d4c514f1e6a21b20177810"
+hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
@@ -605,6 +645,11 @@ hash = "c139526fdd1b8ff2914e277c46959a7a08ccb24cc9c935e447498f79b138d5f8"
 metafile = true
 
 [[files]]
+file = "mods/now-playing.pw.toml"
+hash = "ebf994bf21ba9b14c1a680e67a72ac53521da5f2165b2f15c07192bf42623277"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
 hash = "6d24fa9e0a66d070ed63128f1d729f28d252ed1315b75c0c4a616808aca83ff9"
 metafile = true
@@ -637,6 +682,11 @@ metafile = true
 [[files]]
 file = "mods/per-world-game-rules.pw.toml"
 hash = "e236f7f79197f6850d35428ecd7e987acf3c0e5300bb9337c4cabbe494a3c440"
+metafile = true
+
+[[files]]
+file = "mods/plushie-buddies.pw.toml"
+hash = "6230dca0e465a517985a6163278cc358f6f5da1a3468c86ae5a2ae2d3f379b13"
 metafile = true
 
 [[files]]
@@ -707,6 +757,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "058f62395b41a3b18121bcd961320cc8fd8460a34a5ccb4f07552e42ff19df4a"
+metafile = true
+
+[[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "977e676c425d70abe2af034e7814d140040e09bbffc3eec9ac17f873e98a6b92"
 metafile = true
 
 [[files]]
