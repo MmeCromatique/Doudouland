@@ -29,10 +29,6 @@ file = "config/terrastorage_client.toml"
 hash = "4f01420d5047c7855143e20639af95d88820941914317c0669f4d27a7f0f8dba"
 
 [[files]]
-file = "config/tritium/tritium_config.toml"
-hash = "5f89895248afd571c1e1b189c32e8237599090eeb5562325bff6e2e92375c350"
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "35228989dbf447ed8a124fda344ef42720b7811d1326cb3e7373cc06f72d63fc"
 metafile = true
@@ -675,11 +671,6 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "3f8f31eed84a4a29618cf04e300ea02ace03095ff4e8c4c23ec92f09849ed1f0"
-metafile = true
-
-[[files]]
-file = "mods/optitritium.pw.toml"
-hash = "189242ff2dbac8a8642a3768d73a3bfd4d8a16e085b8543370093104817f4dd5"
 metafile = true
 
 [[files]]
