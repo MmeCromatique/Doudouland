@@ -26,7 +26,7 @@ hash = "8d02bbacdff0d84e58527439ac4e084c75b04fb2790a82ec663dfb5af58dfef0"
 
 [[files]]
 file = "config/terrastorage_client.toml"
-hash = "d256cf814946b1d4247bbef654bce533e03f9628e95f43cd46ef4389dcb23e3a"
+hash = "9d1c5f33ca40a45059a564e2992587fad4fff896b788bcb880ea323c5a720972"
 
 [[files]]
 file = "config/tritium/tritium_config.toml"

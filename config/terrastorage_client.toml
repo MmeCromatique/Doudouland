@@ -1,6 +1,6 @@
 #Whether to display the options button in the storage screens
 #Default: true
-display_options_button = flase
+display_options_button = true
 #==========
 #Whether to protect hotbar items from the storage options
 #Default: true
