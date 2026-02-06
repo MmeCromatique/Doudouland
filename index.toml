@@ -1144,6 +1144,11 @@ hash = "7f750030743730910111c4f2fa3a179be5dbdfab21cb9e2c5d2ba67b91743f15"
 metafile = true
 
 [[files]]
+file = "resourcepacks/jadens-wood-compat.pw.toml"
+hash = "bba86f69a0d32a7f394929d692fbe8d4486264b5bfe95d26cb74b355e08af667"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true

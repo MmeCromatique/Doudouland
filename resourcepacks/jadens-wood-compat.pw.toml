@@ -1,0 +1,13 @@
+name = "Jaden's Nether Expansion Wood Compat"
+filename = "JNEwood.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/K3taj5r6/versions/ZntZXz0Y/JNEwood.zip"
+hash-format = "sha512"
+hash = "e73fab0a1efbd1f5ec3344b8ec702b562b2d4667891dfff838661f10fc379a47a5060726d38a16d5d904b61d0d904ece8b04728fb34b8ce102428d7b5b4d735f"
+
+[update]
+[update.modrinth]
+mod-id = "K3taj5r6"
+version = "ZntZXz0Y"
