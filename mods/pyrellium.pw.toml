@@ -1,0 +1,13 @@
+name = "Pyrellium"
+filename = "pyrellium-0.2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uZWcuZ4t/versions/szavddxP/pyrellium-0.2.6.jar"
+hash-format = "sha512"
+hash = "dc6cccdc60906c487a4323d65b3f5b3f28208f5e2d8f7604903a01828cc08967dcc3637c0147e9a84c0a98dc3b1531dbf136ffa7c412e88c8f9a609d037c8bfa"
+
+[update]
+[update.modrinth]
+mod-id = "uZWcuZ4t"
+version = "szavddxP"

@@ -1,0 +1,13 @@
+name = "Soulful Nether"
+filename = "soulful_nether-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kVLbclwX/versions/pwzxszQT/soulful_nether-1.0.0.jar"
+hash-format = "sha512"
+hash = "d3b40f7bb58747c0e783bc859849c0877c0ca9e926a04d0ca02be86f9b7e80288bf9de524ff903da652a6d53d083f47f6fa7cc962d549496cd52192d4df4c9b5"
+
+[update]
+[update.modrinth]
+mod-id = "kVLbclwX"
+version = "pwzxszQT"

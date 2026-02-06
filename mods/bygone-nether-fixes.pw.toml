@@ -1,0 +1,13 @@
+name = "Bygone Nether Fixes"
+filename = "bygone_nether_fixes-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pDTvIzHb/versions/Q2sh7Cou/bygone_nether_fixes-1.0.0.jar"
+hash-format = "sha512"
+hash = "15940ee591df41cc0a689363c472f1e1be2ec6cc001c3d391264aa4c4c4bcb63513bd3dbc834837abd9e891e91bd452d0c856ee231f5246377bfb9b1823091f7"
+
+[update]
+[update.modrinth]
+mod-id = "pDTvIzHb"
+version = "Q2sh7Cou"

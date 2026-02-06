@@ -54,6 +54,11 @@ hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "f7933fc2034c3eb8601f3eddaa75f03d0a3f68dce19ee553aed57d35163cb21a"
+metafile = true
+
+[[files]]
 file = "mods/ancient-cultural-structures.pw.toml"
 hash = "d585673cb5a2de42d75b6fa27dbd7b4af43f9ce3917d91dc9ed2e6ee2cd22859"
 metafile = true
@@ -95,12 +100,17 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
 file = "mods/armor-of-the-ages.pw.toml"
 hash = "44df5eac7e84c3427a4257ee2796f7d34bdeba6cb219737c53c3a4b856a1892f"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
 metafile = true
 
 [[files]]
@@ -131,6 +141,16 @@ metafile = true
 [[files]]
 file = "mods/building-but-better.pw.toml"
 hash = "3c6fe95ab85e6e88edd7a00403cedde0e0eb02b0c82a1dbe1ef66d07f63fa6c6"
+metafile = true
+
+[[files]]
+file = "mods/bygone-nether-fixes.pw.toml"
+hash = "f93edc8518de619f67b24d0f1fb68feb540dfd5c280fc5f1014be6b8b7bbc509"
+metafile = true
+
+[[files]]
+file = "mods/bygone-nether.pw.toml"
+hash = "000531b263bb757445735629390b6986b395e8a4bcecf2788e94e74c8c125fb2"
 metafile = true
 
 [[files]]
@@ -166,6 +186,16 @@ metafile = true
 [[files]]
 file = "mods/chimes.pw.toml"
 hash = "6a2ae97ad087cbd661a64a0fbc51655d8291fde3fb26957c89b0f330ddf25537"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
+metafile = true
+
+[[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "281e2429b2f37421799b6ff4613c8a783df5e008c2864f91aa862418ff86f272"
 metafile = true
 
 [[files]]
@@ -236,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "4a43a88dc6fc605058ed7211999685379fc32bf5341c644593b918a9ffb31361"
+metafile = true
+
+[[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "ac8c9d8a720dac25670730ed542c7e1575a96103127f5a7a277594e438a420f6"
 metafile = true
 
 [[files]]
@@ -414,6 +449,11 @@ hash = "922964b6a1367106b01675fd99573db6bd7672f3a27cc00391fd4858caa9af26"
 metafile = true
 
 [[files]]
+file = "mods/gardens-of-the-dead.pw.toml"
+hash = "5ab857b0f30a81581b312613fdc820989b119e5f28e08c637e6214b68a8fe954"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "41e9f75d394fe0f4c62061618748d9393058d27f138de188d21c9341d8cf5137"
 metafile = true
@@ -491,6 +531,16 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "910fa36384741dbc199805f0afde8f5ef06940d1a74d1d737b7bc1048c58916f"
+metafile = true
+
+[[files]]
+file = "mods/jadens-nether-expansion.pw.toml"
+hash = "5f1c6c99d281ee87fbb584d082b4a5010c2bb86fa694891c064dcfab0c6ea232"
+metafile = true
+
+[[files]]
+file = "mods/just-hammers.pw.toml"
+hash = "1939889ce0f89529253d5a699e002443d28c63f3942376b274fe4acd379eeba5"
 metafile = true
 
 [[files]]
@@ -609,6 +659,11 @@ hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "3b72ceb1208f9b2215833d563d821c3493bcf0245770a595365e9c88fa93514f"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
@@ -631,6 +686,16 @@ metafile = true
 [[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "020c457eee3a752be52370413f066cd0591bf992bae127b20ea04522b394a60e"
+metafile = true
+
+[[files]]
+file = "mods/nether-additions.pw.toml"
+hash = "0937600e922b9dc875c143fc08fc619d3cbfa3f1f7dfad634a75a0b3f8127366"
+metafile = true
+
+[[files]]
+file = "mods/nether-archives.pw.toml"
+hash = "4b03e2722300e7da98397cfdd8b7a95b7d50a6c2708ba883233e11272d91ba6b"
 metafile = true
 
 [[files]]
@@ -719,6 +784,11 @@ hash = "ead2bfc6e6fa3d1f1d82a7f4968ab2c8a712866d635d1875f02936f9ad8aef02"
 metafile = true
 
 [[files]]
+file = "mods/pyrellium.pw.toml"
+hash = "685bd189bae02402367b2ee3743abff3e117f6d9035061b81e9b08c6f0d22b6d"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c7a632600334f8643c3dca388a7e6b6b30f15607d21dd7cb1bad3f59a52f0f84"
 metafile = true
@@ -735,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "a716c1404c8efc8fc3c5dc9301253cb2b606ded2062d601b8e237e2266b7cd81"
+hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
 
 [[files]]
@@ -824,6 +894,16 @@ hash = "2f18dc85ee37321b759b9bac8df28043a59c5322f592a2a03dd152f14ed4de3f"
 metafile = true
 
 [[files]]
+file = "mods/soul-candles.pw.toml"
+hash = "c0d954a179a6f120dd8e37a2a14189512cb3d1d1e97b07de825ce30b1c46e2ef"
+metafile = true
+
+[[files]]
+file = "mods/soulfulnether.pw.toml"
+hash = "24ad5a2ac10cfab62e777e2eead48ce4c202367f54654d7a9b2fd5a81105ec68"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
 metafile = true
@@ -836,6 +916,16 @@ metafile = true
 [[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "86bea2a4d76eb96331f23dc37985f19a18cdb352a66af4cfbae0cd6e694a4baf"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "d6527df25f7bde5556b71899b89ce85830cd29ff529bd5845ee41a51cc4441ef"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "68586ae904f1cb0d0c914f8be6258c4d2a20e6b28cd0a07fc4940adba7dbc22f"
 metafile = true
 
 [[files]]
@@ -881,6 +971,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage-fabric.pw.toml"
 hash = "a4cfb5083b9d014b87293d694d62f61ba3c64c6903885d7c1d46f46cc581f589"
+metafile = true
+
+[[files]]
+file = "mods/too-cheap.pw.toml"
+hash = "80b7caec8d9682a9f0cb9bdad35c1946fed7493834b72bc288c2ae030885ee2f"
 metafile = true
 
 [[files]]

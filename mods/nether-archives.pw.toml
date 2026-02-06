@@ -1,0 +1,13 @@
+name = "Nether Archives"
+filename = "netherarchives-0.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vC0yimYn/versions/CaohzZsn/netherarchives-0.4.0.jar"
+hash-format = "sha512"
+hash = "9a91f7aad9b1c30e7a82ed8be2d35f9c5df81a955dc6f74b269b21f7ac264172c4ebf3dd10460907494f0490a0c0753066d31abae72af8f854cf0cb9a8d9a497"
+
+[update]
+[update.modrinth]
+mod-id = "vC0yimYn"
+version = "CaohzZsn"
