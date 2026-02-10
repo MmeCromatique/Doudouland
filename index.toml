@@ -244,11 +244,6 @@ hash = "df4a2abec8e59fbce59a7ebbfdb26b840ed397432b037bce3e3e89609dc35cb3"
 metafile = true
 
 [[files]]
-file = "mods/craftable-spawners-and-eggs-h-version.pw.toml"
-hash = "31f8ebf097badbb24d81b2eeafc8d5358a6094fb7b70da5df4bc5ffe74ab3e34"
-metafile = true
-
-[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "b079b010767e7589c98ee4c6281eec59cda6cf2b8ca83c75aaa478af7253b6bf"
 metafile = true
