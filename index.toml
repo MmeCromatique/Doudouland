@@ -324,36 +324,6 @@ hash = "41417ba1d1148888789bb2a29b6bb24cd172e48ab0c3b6f2e5f701c773eab408"
 metafile = true
 
 [[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "753c540d67ba6e771dc36032518dead86d6737967f3770ba0f4d7edd8c677276"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "6129922631c5585c49127b01e02b936656d29af65212d711bf864fd1f733882c"
-metafile = true
-
-[[files]]
-file = "mods/emi-trades-villager-trading-emi-plugin.pw.toml"
-hash = "cba9a89d5114ad8aaec8c4593851388bacf317cbe99428e347441c93ae9f8c1b"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "233834513e0bf17c37562fd5a81a917ac391f92aeb9e9e8bc51bd18560b41635"
-metafile = true
-
-[[files]]
-file = "mods/emienchants.pw.toml"
-hash = "4da536e5e2f27fe98c9a2a1aa049e7f7e7abeb9cd3407cde6f966cd14d68f887"
-metafile = true
-
-[[files]]
-file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
-hash = "a0eaa8338bf9f270d68b07d0eb18d7af9678a76ec4edae554c330a6e4f5b64a3"
-metafile = true
-
-[[files]]
 file = "mods/emojiful.pw.toml"
 hash = "a463035ddfa901370ec7293103a6405ed5f476f4a2a7468cc3552f07686bd510"
 metafile = true
@@ -791,6 +761,11 @@ metafile = true
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "1dec5eab016f2b91c2b4c39cb6d0c3f9c9e0f41de359670e9518078dd788240f"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "2c5d9c47c2c16b1207f1335d10f99b1ba976bdc3363784674b8907ddd96e9c0a"
 metafile = true
 
 [[files]]
