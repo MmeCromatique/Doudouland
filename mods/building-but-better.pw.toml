@@ -1,13 +1,13 @@
 name = "Building But Better"
-filename = "bbb-fabric-2.0pre3.jar"
+filename = "bbb-fabric-2.0pre4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "82d52f732d303190bbe039a5063719e1df3aff18"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/OSDpLd82/versions/Of3JR2lP/bbb-fabric-2.0pre4.jar"
+hash-format = "sha512"
+hash = "afbfec044d5fd70562580e59e7c4e91805df8bdde8fae5905776894d653418a2365010963c01a294a28b7377121d2479e721a42e35085c9ad913999fd49c5307"
 
 [update]
-[update.curseforge]
-file-id = 6803573
-project-id = 989479
+[update.modrinth]
+mod-id = "OSDpLd82"
+version = "Of3JR2lP"
