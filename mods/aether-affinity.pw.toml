@@ -1,0 +1,13 @@
+name = "Aether Affinity"
+filename = "aether-affinity-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lAJKuLDB/versions/UfgIc3Vw/aether-affinity-1.0.0.jar"
+hash-format = "sha512"
+hash = "6ce33fb0a019b17bf2a11e84e7ab42ccf1fac6e2a5f253942efff842800749b9d28efced116624932c89eede98accaed36b55af299a2764ce4a9fdf46ffaa5ab"
+
+[update]
+[update.modrinth]
+mod-id = "lAJKuLDB"
+version = "UfgIc3Vw"

@@ -39,8 +39,13 @@ hash = "ec8ba50fa9fafe1d47fdaa5b2d3d1d52dc6c7e248695754bfb9215f7f72d1956"
 metafile = true
 
 [[files]]
+file = "mods/aether-affinity.pw.toml"
+hash = "50ba36076fc59a82830491d22dfb5dc197f08b4c5b333921369190b693f7af7b"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
-hash = "75dc768530ee3b928b85766dface34806e0c3fd62d2970e60ce1083f04d753bb"
+hash = "2774ee3ea0ca5df619d547e8b29bdb91ad02b203301b6a521cd40e9b0be7aab5"
 metafile = true
 
 [[files]]
@@ -350,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/explore-ruins-aether.pw.toml"
-hash = "6be45491c24641976eb7a7285891def84095cf6b2889572ebe65c92933c0d545"
+hash = "a4787d82e73dd0e391fb88be307bf3a0fa569a7029f666b4e0186a2a9e891998"
 metafile = true
 
 [[files]]
