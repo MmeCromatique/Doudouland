@@ -949,6 +949,11 @@ hash = "853e563171cf07d427001681d8018f1f1909ab968e3fe912bdfacf7df2ad744c"
 metafile = true
 
 [[files]]
+file = "mods/toggle-item-frames.pw.toml"
+hash = "7b88111f7ec74ba0182992736c08d46041333f02d277fb940d3d52162aa6200a"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage-fabric.pw.toml"
 hash = "a4cfb5083b9d014b87293d694d62f61ba3c64c6903885d7c1d46f46cc581f589"
 metafile = true
